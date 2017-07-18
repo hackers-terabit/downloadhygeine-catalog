@@ -1,0 +1,11 @@
+{
+    "category": "Linux-kernel", 
+    "name": "Linux-4.9.38", 
+    "ripemd160": "aa30ee41680a1fc846dbf1b577d6d0cc59925646", 
+    "sha256": "76d789d87dd51d2fd58c095727171984fa4a992f5e25b9e3eb1e5fd5cd129074", 
+    "sha512": "78f30ff099da22999c923bc5dfe42657fb3428b810d12927a4cd937721eb22f58cc2cb8ca00e4c1e0be747885767126e7d44443a019f5e023ba96fbc2e5a307a", 
+    "torrent": 0, 
+    "type": "tar.xz", 
+    "url": "https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.9.38.tar.xz", 
+    "whirlpool": "78d4ad8d7af8c800d6c4b00176a99bcc837e3739e71ca8b3b35d7bbb61221a2e7ae695e8d2352ac4f188b15f4e11bc86a892c2b177c0b965d2214e20f09ddafc"
+}
