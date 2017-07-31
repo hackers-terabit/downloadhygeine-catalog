@@ -1,0 +1,11 @@
+{
+    "data": "{\"category\": \"http://cdimage.kali.org/kali-2017.1/kali-linux-2017.1-amd64.iso\", \"getmeta\": 1, \"metafiles\": [\"http://cdimage.kali.org/kali-2017.1/SHA256SUMS.gpg\", \"http://cdimage.kali.org/kali-2017.1/SHA256SUMS\"], \"name\": \"Kali 2017.1-amd64\", \"ripemd160\": \"5d17884309433705e4e6ce929b89efe0fb218090\", \"sha256\": \"49b1c5769b909220060dc4c0e11ae09d97a270a80d259e05773101df62e11e9d\", \"sha512\": \"bf19344aaeffb66ae8f67650f754301ed6c0ab84a3e6d277c36d10fc126bcccd4a5025cd26ca3a5460b6b4df0797e7a3b876b9d3c4fa62a7b969cc3ba18a79e1\", \"torrent\": 0, \"type\": \"iso\", \"url\": \"http://cdimage.kali.org/kali-2017.1/kali-linux-2017.1-amd64.iso\", \"uuid\": \"95b97394-2446-4be1-941e-cbc28e18a6c8\", \"whirlpool\": \"4d7d9cf74802755f25ad1aaa87482d412dec9c01d3ffc33f86ddd0567b7b84adc910d281fa3cd64fe3eaf9fff8145cf9a997dd666422c1089cf60e7b549f3b82\"}", 
+    "siginfo": {
+        "description": "Some description...\ninformationa bout me, why I have this catalog,why you should trust me and how...\nmaybe...gpg key here...\n", 
+        "hash-algorithm": "SHA512", 
+        "name": "Test Name", 
+        "public-key": "-----BEGIN PUBLIC KEY-----\nMIGbMBAGByqGSM49AgEGBSuBBAAjA4GGAAQAoo0nm98GxMCLyLHaKoKGHPASgJj7\nsjWjpVmt8p77lzbJu8OCIZw+393eclDltKZUWx2GzhQv9Z4489kveoZyzPYAgM96\nb5QV43YsnDBI2jk/i/2yQXbvy1b1uj3ZdlyaeXYf1M6itMXEO/6ZZ6zWPLnIQ0X8\ncHbpKiq7bRgwpzMO1UQ=\n-----END PUBLIC KEY-----\n", 
+        "signature": "MIGHAkFLytYvuLqiLXJOp8NB37PrYF01yvkAP3uMPgH9ve9GizjixK0JPBDZZvCNkvxIdre0mhudXDnkCQoY0+QHyXlm1QJCAW03UY/Dxgw4IwXffEa/Nxr5jGnf1fWN4FlbYyaQRmPsuzTdjv0SEpU9fA4Wd6EwnFLch9BGvmrsIpz+Oo/t14W2", 
+        "url": "https://test.url"
+    }
+}
