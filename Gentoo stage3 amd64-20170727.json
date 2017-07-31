@@ -1,0 +1,11 @@
+{
+    "data": "{\"category\": \"Linux-distros\", \"getmeta\": 1, \"metafiles\": [\"http://distfiles.gentoo.org/releases/amd64/autobuilds/20170727/stage3-amd64-20170727.tar.bz2.CONTENTS\", \"http://distfiles.gentoo.org/releases/amd64/autobuilds/20170727/stage3-amd64-20170727.tar.bz2.DIGESTS\", \"http://distfiles.gentoo.org/releases/amd64/autobuilds/20170727/stage3-amd64-20170727.tar.bz2.DIGESTS.asc\"], \"name\": \"Gentoo stage3 amd64-20170727\", \"ripemd160\": \"bea7242e656bf5be430603f2caa0419dd4b4534c\", \"sha256\": \"51eb09f00f33dc05c0be9bd8a1e80f7a86dc0249edd7762fe479411813f1270e\", \"sha512\": \"171091cf8f87820deac9ef7eb669b8fc1181c61f0d32d5c833c14a39073df7d03b88b7afb6839eba5878cbfb60634aa7dd6dc10e107ece229938a0ba1d8f2158\", \"torrent\": 0, \"type\": \"iso\", \"url\": \"http://distfiles.gentoo.org/releases/amd64/autobuilds/20170727/stage3-amd64-20170727.tar.bz2\", \"uuid\": \"91f3f1fe-3bca-48be-b6ed-49164934bb7c\", \"whirlpool\": \"305851df479c0f5b48fe8c1a43abf8603e8b2d6242e743ab1658d216bd5e2a50925b6d1782db761ea5b62d50d3375eef4ff0c440221295c0be9303059ebe1a13\"}", 
+    "siginfo": {
+        "description": "Some description...\ninformationa bout me, why I have this catalog,why you should trust me and how...\nmaybe...gpg key here...\n", 
+        "hash-algorithm": "SHA512", 
+        "name": "Test Name", 
+        "public-key": "-----BEGIN PUBLIC KEY-----\nMIGbMBAGByqGSM49AgEGBSuBBAAjA4GGAAQAoo0nm98GxMCLyLHaKoKGHPASgJj7\nsjWjpVmt8p77lzbJu8OCIZw+393eclDltKZUWx2GzhQv9Z4489kveoZyzPYAgM96\nb5QV43YsnDBI2jk/i/2yQXbvy1b1uj3ZdlyaeXYf1M6itMXEO/6ZZ6zWPLnIQ0X8\ncHbpKiq7bRgwpzMO1UQ=\n-----END PUBLIC KEY-----\n", 
+        "signature": "MIGIAkIBmZ458UBWRBFQOvzECMwgMxzksvkN+BDIDY5RSv+r3ZZpbSe0SlI6pGzACigTYvyqZ6zP/1tqolNV4HA8feuoG/4CQgGkr1/kV79O7aaeFSTCoU5xmm32lPRE1fPKYHID57ZiZLzeXjztfyShTcdf4Lz2sOmogy45AaPDir2EgkYPg50NDQ==", 
+        "url": "https://test.url"
+    }
+}
